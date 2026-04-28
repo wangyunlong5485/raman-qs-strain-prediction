@@ -1,0 +1,8 @@
+{
+  "num_blocks": 3,
+  "filters_base": 32,
+  "kernel_size": 7,
+  "dropout_rate": 0.2077735584403887,
+  "learning_rate": 0.0005581372793160988,
+  "batch_size": 1024
+}
